@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">snakebar</string>
+    <string name="snackBar">snackBar</string>
+    <string name="Custom_dilog">Custom Dilog</string>
+    <string name="Title">Title</string>
+    <string name="enter">Enter Your Name</string>
+    <string name="youridea">Your Ideas</string>
+    <string name="cencel">Cencel</string>
+    <string name="set">Set</string>
+</resources>
